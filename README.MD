@@ -27,6 +27,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto foi desenvolvido com intuito de divulgar a mídia profissional da doutora Tainá Cordeiro, auxiliando, dessa forma, na captação passiva de pacientes.
 
+-<a href=" http://lattes.cnpq.br/3257730136226834" target="_blank">Projeto</a>!
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
